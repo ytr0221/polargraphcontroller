@@ -17,3 +17,5 @@ How to [run it from source](https://github.com/euphy/polargraph/wiki/Running-the
 
 sandy.noble@gmail.com
 http://www.polargraph.co.uk/
+
+https://www.youtube.com/watch?v=_mTvSju3d6o
